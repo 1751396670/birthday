@@ -2,17 +2,22 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的迷你",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第一个生日了",
-        "以后的生日",
-        "我们也要一起过呀",
-        "今年要好多亲亲抱抱牵牵",
-        "以后也要好多亲亲抱抱牵牵",
+        "迷你",      
+        "今天是你的生日呀",  
+        "这是我们在一起之后",
+        "你的第一个生日",
+        "也是你自己过的最后一个生日啦",
+        "以后的每个生日",
+        "我们都要一起过呀",
+        "这可是",
+        "wzy",
+        "给",
+        "wl",
+        "许下的承诺呢",
+        "你快答应呀",
         "然后然后",
         "mua",
+        "生日快乐！",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -24,18 +29,31 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的迷你": "./imgs/yellow.JPG",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "迷你": "./imgs/yellow.JPG",
+        //"今天是你的生日呀": "./imgs/yellow.JPG",
+        //"这是我们在一起之后": "./imgs/yellow.JPG",
+        //"你的第一个生日": "./imgs/yellow.JPG",
+        //"也是你自己过的最后一个生日啦": "./imgs/yellow.JPG",
+        //"以后的每个生日": "./imgs/yellow.JPG",
+        //"我们都要一起过呀": "./imgs/yellow.JPG",
+        //"这可是": "./imgs/yellow.JPG",
+        //"wzy": "./imgs/yellow.JPG",
+        //"wl": "./imgs/yellow.JPG",
+        //"许下的承诺呢": "./imgs/birthday.jpg",
+        //"你快答应呀": "./imgs/birthday.jpg",
+        //"然后然后": "./imgs/birthday.jpg",
+        //"mua": "./imgs/birthday.jpg",
+        //"生日快乐！": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
+        turn_on: "点我",
+        play: "你猜这个是什么",
+        bannar_coming: "那这个呢？",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        light_candle: "还有还有",
+        wish_message: "生日快乐！",
+        story: "见字如面",
     }
 };
