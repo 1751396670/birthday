@@ -47,13 +47,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我",
-        play: "你猜这个是什么",
+        turn_on: "开始啦",
+        play: "你听呀",
         bannar_coming: "那这个呢？",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "点他点他点他",
         cake_fadein: "蛋糕？",
         light_candle: "还有还有",
         wish_message: "生日快乐！",
-        story: "见字如面",
+        story: "见字如面呀",
     }
 };
