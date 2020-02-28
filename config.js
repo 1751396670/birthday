@@ -42,11 +42,11 @@ var config = {
         "wzy": "./imgs/me.JPG",
         "wl": "./imgs/you.JPG",
         "许下的承诺呢": "./imgs/promise.JPG",
-        "你快答应呀": "./imgs/drink.JPG",
+        "你快答应呀": "./imgs/agree.JPG",
         "我最喜欢你啦": "./imgs/love.JPG",
         "我们要永远永远在一起呀": "./imgs/forever.JPG",
         //"然后然后": "./imgs/birthday.jpg",
-        "mua": "./imgs/us.JPG",
+        "mua": "./imgs/mua.JPG",
         //"生日快乐！": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
